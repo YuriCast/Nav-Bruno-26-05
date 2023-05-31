@@ -6,7 +6,7 @@ export default function App() {
   return (
     <View style={styles.container}>
       <Text style={styles.text}>Tela B</Text>
-      <Link href="/index1">Voltar para Home</Link>
+      <Link href="/">Voltar para Home</Link>
       <StatusBar style="auto" />
     </View>
   );
